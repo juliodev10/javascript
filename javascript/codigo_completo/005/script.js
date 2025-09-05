@@ -1,0 +1,7 @@
+// comentario no js
+console.log(1)
+//console.log(2)
+console.log(3)
+
+/* kfjmdvklf
+djfhlkjd*/
